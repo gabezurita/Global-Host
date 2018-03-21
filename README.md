@@ -3,6 +3,9 @@
 # Global-Host
 <a href="https://global-host.herokuapp.com/">Global-Host, Friends in far places</a>
 
+Global Host was an eight-day, four-person, final project for Dev Bootcamp. It was built on Rails, utilized the Google Maps JavaScript API, relied on Materialize for visual elements, and was consistently tested using Codeship continuous integration.
+
+
 <table>
   <tr>
   <th colspan="7">Team Members</th>
