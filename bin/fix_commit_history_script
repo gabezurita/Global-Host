@@ -9,7 +9,7 @@
 
 
 git filter-branch --env-filter '
-OLD_EMAIL=""
+OLD_EMAIL="--replace-all"
 CORRECT_NAME="Gabriel Zurita"
 CORRECT_EMAIL="gabezurita@gmail.com"
 if [ "$GIT_COMMITTER_EMAIL" = "$OLD_EMAIL" ]
